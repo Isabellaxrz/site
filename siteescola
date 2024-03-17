@@ -14,7 +14,7 @@
             background-color: #ffffff; /* Fundo branco */
         }
         header {
-            background-color: #2E4D7D; /* Azul escuro mais escuro */
+            background-color: #1927A6; /* Azul escuro mais escuro */
             color: #fff;
             padding: 10px;
             text-align: center;
@@ -72,8 +72,9 @@
         <ul>
             <li><a href="#">Página Inicial</a></li>
             <li><a href="#">Sobre Nós</a></li>
-            <li><a href="#">Cursos</a></li>
+            <li><a href="#">Setores</a></li>
             <li><a href="#">Contato</a></li>
+            <li><a href="#">Ouvidoria/CEP</a></li>
         </ul>
     </nav>
     <section>
@@ -91,15 +92,6 @@
                 <li>Inscrições para o vestibular estão abertas até 30 de abril.</li>
                 <li>Evento de arrecadação de fundos para a reforma da biblioteca.</li>
             </ul>
-        </div>
-        
-        <!-- Quadro de Fotos -->
-        <div class="photo-board">
-            <h3>Quadro de Fotos</h3>
-            <img src="caminho/para/foto1.jpg" alt="Foto 1">
-            <img src="caminho/para/foto2.jpg" alt="Foto 2">
-            <img src="caminho/para/foto3.jpg" alt="Foto 3">
-        </div>
     </section>
     <footer>
         <div class="social-icons">
